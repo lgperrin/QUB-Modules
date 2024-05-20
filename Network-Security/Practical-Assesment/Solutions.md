@@ -50,7 +50,7 @@ In order to identify all IP addresses involved in the packet capture, we will fo
 3. Select "_Endpoints_" from the drop-down menu.
 4. In the Endpoints window, we can click on the "_IPv4_" tab to list all the unique IPv4 addresses. This information can be exported by clicking the "_Copy_" button at the bottom of the Endpoints window and select "_… as CSV_" to copy the details in a CSV format that can be pasted into a spreadsheet or other document. This will give us a list of all IP addresses that have sent or received packets during the capture. If we want to narrow it down to only certain types of traffic, we can apply a display filter before opening the Endpoints window.
 
-![alt text]([https://github.com/lgperrin/Network-Security/blob/main/Practical-Assesment/Images/Captura%20de%20pantalla%202024-02-23%20101902.png)
+![alt text](https://github.com/lgperrin/QUB-Modules/blob/main/Network-Security/Practical-Assesment/Images/Captura%20de%20pantalla%202024-02-23%20101902.png)
 
 <ins>**Comments**</ins>. From the screenshot we can see there are six unique IPv4 addresses in our `Assessment-1.cap` file along with associated data, such as the number of packets, bytes transmitted and received, and in some cases, additional information like country, city, latitude, longitude, AS number, and organization. Interesting facts we can get from this:
 
