@@ -25,7 +25,7 @@
 
 From the _Statistics_ $>$ _Protocol Hierarchy_ section we get:
 
-![alt text](https://github.com/lgperrin/Network-Security/blob/main/Practical-Assesment/Images/Captura%20de%20pantalla%202024-02-22%20114059.png)
+![alt text](https://github.com/lgperrin/QUB-Modules/blob/main/Practical-Assesment/Images/Captura%20de%20pantalla%202024-02-22%20114059.png)
 
 Based on the Protocol Hierarchy statistics provided from Wireshark, here's what we can derive for task 1.A:
 
