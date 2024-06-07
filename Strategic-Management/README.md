@@ -1,8 +1,8 @@
-# Strategic Management
+# 👩‍💼 Strategic Management
 
 Students will develop an understanding of Strategy and Strategic Management in various contexts. The module will evaluate various theoretical models underpinning strategic management concepts. It will also address more practical issues such as strategic planning, strategic choice and strategic options (including acquisitions, divestments, strategic alliances, growth and retrenchment strategies).
 
-# University Course Information
+# ℹ️ University Course Information
 
 | Attribute           | Details                       |
 |---------------------|-------------------------------|
