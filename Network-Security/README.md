@@ -1,4 +1,4 @@
-# Network Security 
+# 💻 Network Security 
 
 This module introduces security technologies and policies for the design, development, and deployment of secure networks. Issues related to network security include the security of internet protocols, network attack and defence mechanisms, network monitoring and analysis, and network security administration. Issues related to network security include the security of internet protocols, network attack and defence mechanisms, network monitoring and analysis, and network security administration.
 
@@ -12,7 +12,7 @@ The following topics are covered in the lectures:
 6. Denial of Service
 7. Network Configuration
 
-# University Course Information
+# ℹ️ University Course Information
 
 | Attribute           | Details                       |
 |---------------------|-------------------------------|
@@ -21,7 +21,7 @@ The following topics are covered in the lectures:
 | **Teacher**         | Dr Kieran McLaughlin          |
 | **Author of Notes** | Laura García Perrín           |
 
-# How will my learning outcomes be assessed?
+# 🗒️ How will my learning outcomes be assessed?
 
 You are required to submit two pieces of assessment.
 
